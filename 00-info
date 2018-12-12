@@ -1,0 +1,5 @@
+
+ftp://mirbase.org/pub/mirbase/CURRENT/genomes/sly.gff3
+
+wget ftp://mirbase.org/pub/mirbase/CURRENT/genomes/sly.gff3
+wget ftp://mirbase.org/pub/mirbase/CURRENT/genomes/zma.gff3
